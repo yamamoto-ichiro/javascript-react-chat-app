@@ -1,4 +1,4 @@
-# CometChat Kitchen Sink Sample App
+# CometChat Kitchen Sink Sample App with React
 
 CometChat Kitchen Sink Sample App is a real-time messaging app capable of **one-on-one** (private), **group** messaging, voice & video calling.
 
